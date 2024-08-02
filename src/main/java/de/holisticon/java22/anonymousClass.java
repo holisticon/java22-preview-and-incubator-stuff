@@ -6,7 +6,7 @@ import java.util.stream.Gatherers;
 void main() {
 
     /*
-    Java 22 String Template Processor https://openjdk.org/jeps/430
+    Java 22 preview String Template Processor https://openjdk.org/jeps/430
      */
     stringFormatExample();
 
