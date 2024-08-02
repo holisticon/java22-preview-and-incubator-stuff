@@ -3,6 +3,12 @@ import de.holisticon.java22.engine.*;
 import java.util.List;
 import java.util.stream.Gatherers;
 
+/*
+ * Unnamed classes and instance main methods:
+ *
+ * https://docs.oracle.com/en/java/javase/21/language/unnamed-classes-and-instance-main-methods.html
+ */
+
 void main() {
 
     /*
